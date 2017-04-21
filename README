@@ -1,0 +1,9 @@
+### lxpanel-pi-top-battery
+
+
+LXPanel plugin for the pi-top battery.
+
+
+Will display the curent status (Charging, Discharging, External Power), and time/percentage remaining.
+
+Possibly will have a config page for choosing if time / percentage is shown.
